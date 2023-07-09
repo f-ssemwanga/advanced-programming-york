@@ -47,7 +47,7 @@ public class Variables
 
 	
 		
-		System.out.println(fahrenheit + " degres fahrenheit is " + 
+		System.out.println(fahrenheit + " degrees fahrenheit is " + 
 				celsius + " degrees celsius") ;
 		System.out.println("\n\n") ;
 		
@@ -67,7 +67,7 @@ public class Variables
 		//Integer division that returns the remainder
 		result = 5 % 2 ;
 
-		System.out.println("The remander from 5/2 is: " + result) ;
+		System.out.println("The remainder from 5/2 is: " + result) ;
 		System.out.println("\n\n") ;
 		
 		
