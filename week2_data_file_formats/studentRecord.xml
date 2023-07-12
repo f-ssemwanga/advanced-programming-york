@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <ID>16430122-1521</ID>
+    <student>Pace, Camden G.</student>
+    <Mathmatics>
+      <Test1>54%</Test1>
+      <Test2>32%</Test2>
+    </Mathmatics>
+    <EnglishAssignment1>
+      <Essay1>C+</Essay1>
+      <Essay2>B+</Essay2>
+    </EnglishAssignment1>
+    <IT>
+      <Activity1>32%</Activity1>
+      <Test2>32%</Test2>
+      <Essay3>C+</Essay3>
+    </IT>
+  </Student>
+  <Student>
+    <ID>1643701212-9851</ID>
+    <student>Weber, Luxy X</student>
+    <Mathmatics>
+      <Test1>32%</Test1>
+      <Test2>41%</Test2>
+    </Mathmatics>
+    <EnglishAssignment1>
+      <Essay1>C-</Essay1>
+      <Essay2>C-</Essay2>
+    </EnglishAssignment1>
+    <IT>
+      <Activity1>73%</Activity1>
+      <Test2>73%</Test2>
+      <Essay3>D+</Essay3>
+    </IT>
+  </Student>
+  <Student>
+    <ID>16060213-9990</ID>
+    <student>Branch, Caesar A</student>
+    <Mathmatics>
+      <Test1>73%</Test1>
+      <Test2>81%</Test2>
+    </Mathmatics>
+    <EnglishAssignment1>
+      <Essay1>C-</Essay1>
+      <Essay2>C+</Essay2>
+    </EnglishAssignment1>
+    <IT>
+      <Activity1>63%</Activity1>
+      <Test2>63%</Test2>
+      <Essay3>C-</Essay3>
+    </IT>
+  </Student>
+  <Student>
+    <ID>16720905-9422</ID>
+    <student>Beck, Sara K.</student>
+    <Mathmatics>
+      <Test1>66%</Test1>
+      <Test2>57</Test2>
+    </Mathmatics>
+    <EnglishAssignment1>
+      <Essay1>C-</Essay1>
+      <Essay2>D+</Essay2>
+    </EnglishAssignment1>
+    <IT>
+      <Activity1>41%</Activity1>
+      <Test2>41%</Test2>
+      <Essay3>C-</Essay3>
+    </IT>
+  </Student>
+  <Student>
+    <ID>16471011-5884</ID>
+    <student>Valenzuela, Daphne E.</student>
+    <Mathmatics>
+      <Test1>43%</Test1>
+      <Test2>45%</Test2>
+    </Mathmatics>
+    <EnglishAssignment1>
+      <Essay1>B+</Essay1>
+      <Essay2>A-</Essay2>
+    </EnglishAssignment1>
+    <IT>
+      <Activity1>63%</Activity1>
+      <Test2>63%</Test2>
+      <Essay3>C-</Essay3>
+    </IT>
+  </Student>
+</Students>
