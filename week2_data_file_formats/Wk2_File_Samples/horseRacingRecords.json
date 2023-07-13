@@ -1,0 +1,44 @@
+{
+  "type": {
+    "Race 1": "Flat",
+    "Race 2": "Flat",
+    "Race 3": "Hurdle"
+  },
+  "Weather": {
+    "Race 1": "Warm",
+    "Race 2": "Wet",
+    "Race 3": "Cold"
+  },
+  "Horse": {
+    "Birthday List": {
+      "Age": 2,
+      "Race 1": 2,
+      "Race 2": "N/P",
+      "Race 3": 3
+    },
+    "Goodtime": {
+      "Age": 3,
+      "Race 1": "N/R",
+      "Race 2": 1,
+      "Race 3": "N/R"
+    },
+    "Black Jug": {
+      "Age": 5,
+      "Race 1": 9,
+      "Race 2": "N/R",
+      "Race 3": "N/P"
+    },
+    "Plucky Pedro": {
+      "Age": 6,
+      "Race 1": "N/R",
+      "Race 2": "N/P",
+      "Race 3": 5
+    },
+    "Querty": {
+      "Age": 3,
+      "Race 1": 4,
+      "Race 2": 3,
+      "Race 3": "N/P"
+    }
+  }
+}
